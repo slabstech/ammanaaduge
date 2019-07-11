@@ -21,9 +21,9 @@ name                     : "Ammana Aduge"
 description              : "Recipes of Mom's Mom, Mom and Me"
 url                      : "https://connetingthedots.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "slabstech/ammanaaduge"
+repository               : "github.com/slabstech/ammanaaduge"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : /assets/art/logo.png
+logo                     : #
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
