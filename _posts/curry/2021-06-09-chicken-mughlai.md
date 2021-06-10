@@ -5,47 +5,48 @@ categories:
 tags:
   - curry
 ---
-Chicken Mughlai Recipe
+
 
 [Cooking Video](https://www.youtube.com/watch?v=xAAfu90pzWA)
 
-Servings: 5
-Cooking time: 60 minutes
+#### Servings: 5
 
-Cost: 200 Rs (approximately)
+#### Cooking time: 60 minutes
 
-
-Ingredients:
-• Onion – 4
-• Green chilli – 5
-• Coriander(chopped) – 2 tbsp
-• Pudina or mint leaves– 1 tbsp
-• Chicken – 700 grams
-• Egg – 2
-• Tomato – 2
-• Soy sauce - 2 tsp(teaspoon)
-• Green chilli sauce – 2 tsp(teaspoon)
-
-• Vinegar – 2 tsp(teaspoon)
-• Lemon juice – 2 tsp(teaspoon)
-
-• Oil – 5 tbsp
-• Salt – 1 tbsp
-
-• Kasuri methi – 2 tbsp
-• Garam masala powder - 1 tbsp
-
-• Red chilli powder - 2 tbsp
-• Turmeric powder - 1/2 tbsp
+#### Cost: 200 Rs (approximately)
 
 
 
+#### Ingredients:
+
+- Onion – 4
+- Green chilli – 5
+- Coriander(chopped) – 2 tbsp
+- Pudina or mint leaves– 1 tbsp
+- Chicken – 700 grams
+- Egg – 2
+- Tomato – 2
+- Soy sauce - 2 tsp(teaspoon)
+- Green chilli sauce – 2 tsp(teaspoon)
+
+- Vinegar – 2 tsp(teaspoon)
+- Lemon juice – 2 tsp(teaspoon)
+
+- Oil – 5 tbsp
+- Salt – 1 tbsp
+
+- Kasuri methi – 2 tbsp
+- Garam masala powder - 1 tbsp
+
+- Red chilli powder - 2 tbsp
+- Turmeric powder - 1/2 tbsp
 
 
-Preparation:
+#### Preparation:
 
 
 1. Add oil in a stainless steel frying pan.
+
 2. Add chopped onions and green chillies to the oil and sauté till it       turns golden brown.
 3. Add chopped tomatoes, coriander leaves and mint leaves to it.
 4. Once the tomatoes are cooked, add ginger garlic paste.
@@ -60,3 +61,8 @@ Preparation:
 13. Leave the gravy to cook for another 5 minutes.
 14. Chicken mughlai is now ready to eat.
 15. It can be served  with chapati, roti or rice.
+
+
+
+
+[Please Subscribe The Channel](https://www.youtube.com/channel/UC-9FVME89HgtK5ePA0qUMxA)

@@ -108,7 +108,7 @@ author:
   name             : "Sahana's Food Vlog"
   avatar           : #/assets/art/logo.png
   bio              : "Food is the closest way to the heart"
-  location         : "Pale blue dot"
+  #location         : "Pale blue dot"
   email            :
   links:
     - label: "Email"
