@@ -1,26 +1,30 @@
 ---
-title: "Chicken Mughlai : Curry"
+title: "EDIT- Add Recipe Name"
 categories:
-  - curry
+  - EDIT
 tags:
-  - curry
+  - EDIT
+youtubeId: xAAfu90pzWA
 ---
 
+EDIT _ filename - yyyy-mm-dd-recipe-name.md
 
-[Cooking Video](https://www.youtube.com/watch?v=xAAfu90pzWA)
+[Cooking Video](EDIT Add youtube link here youtube.com)
 
+{% include youtubePlayer.html id=page.xAAfu90pzWA %}
 
 | Servings | Cooking Time | Cost |
 |-------|-------|-------|
-| 5 people | 60 mins | Rs. 200|
-
+| EDIT - 5| EDIT - 60 mins |EDIT - Rs. 200|
 
 #### Ingredients:
+
+EDIT
 
 - Vegetables
   - Onion – 4
   - Green chilli – 5
-  - Coriander – 2 tbsp
+  - Coriander(chopped) – 2 tbsp
   - Pudina or mint leaves– 1 tbsp
   - Tomato – 2
   - Lemon juice – 2 tsp(teaspoon)
@@ -29,6 +33,7 @@ tags:
 - Egg – 2
 
 - Oil – 5 tbsp
+
 
 - Spices
   - Salt – 1 tbsp
@@ -46,13 +51,13 @@ tags:
   - Frying Pan
 
 
-#### Prep (Before Cooking) :
-1. Chop onions to small pieces
-2. Chop Tomatoes and Green Chillies
-3. Chop Coriander and Pudina
+####  Prep (Before Cooking)
+EDIT
+1. Chop onions to small size
+2. Chop tomatoes and chilli
 
 #### Cooking :
-
+EDIT
 
 1. Add oil in a stainless steel frying pan.
 
