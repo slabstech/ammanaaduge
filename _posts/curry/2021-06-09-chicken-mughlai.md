@@ -7,9 +7,8 @@ tags:
 youtubeId: xAAfu90pzWA
 ---
 
-[Cooking Video](https://www.youtube.com/watch?v=xAAfu90pzWA)
-
 {% include youtubePlayer.html id=page.xAAfu90pzWA %}
+
 
 
 | Servings | Cooking Time | Cost |
@@ -77,3 +76,6 @@ youtubeId: xAAfu90pzWA
 
 
 [Please Subscribe The Channel](https://www.youtube.com/channel/UC-9FVME89HgtK5ePA0qUMxA)
+
+
+[Video Link on Youtube](https://www.youtube.com/watch?v=xAAfu90pzWA)

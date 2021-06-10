@@ -9,8 +9,6 @@ youtubeId: EDIT
 
 EDIT _ filename - yyyy-mm-dd-recipe-name.md
 
-[Cooking Video](EDIT https://www.youtube.com/watch?v=xAAfu90pzWA)
-
 {% include youtubePlayer.html id=page.EDIT %}
 
 | Servings | Cooking Time | Cost |
@@ -80,3 +78,6 @@ EDIT
 
 
 [Please Subscribe The Channel](https://www.youtube.com/channel/UC-9FVME89HgtK5ePA0qUMxA)
+
+
+[Video Link on Youtube ](EDIT https://www.youtube.com/watch?v=EDIT)

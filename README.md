@@ -1,4 +1,4 @@
-# [Sahana's Food VLog](https://slabs.tech)
+# [Sahana's Food VLog](https://slabs.tech/food_vlog)
 
 
 ### Portfolio site of Food Recipes and Vlog by Sahana Shetty
