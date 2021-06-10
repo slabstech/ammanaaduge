@@ -2,11 +2,7 @@
 main:
 - title: "About"
   url: /about/
-- title: "Sweets"
-  url: /sweets/
-- title: "Snacks"
-  url: /snacks/
-#- title: "Painting"
-#  url: /painting/
-#- title: "Search"
-#  url: /search/
+#- title: "Sweets"
+#  url: /sweets/
+#- title: "Snacks"
+#  url: /snacks/
