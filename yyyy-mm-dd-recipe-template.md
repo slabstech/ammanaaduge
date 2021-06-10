@@ -4,14 +4,14 @@ categories:
   - EDIT
 tags:
   - EDIT
-youtubeId: xAAfu90pzWA
+youtubeId: EDIT
 ---
 
 EDIT _ filename - yyyy-mm-dd-recipe-name.md
 
-[Cooking Video](EDIT Add youtube link here youtube.com)
+[Cooking Video](EDIT https://www.youtube.com/watch?v=xAAfu90pzWA)
 
-{% include youtubePlayer.html id=page.xAAfu90pzWA %}
+{% include youtubePlayer.html id=page.EDIT %}
 
 | Servings | Cooking Time | Cost |
 |-------|-------|-------|

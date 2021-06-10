@@ -4,10 +4,12 @@ categories:
   - curry
 tags:
   - curry
+youtubeId: xAAfu90pzWA
 ---
 
-
 [Cooking Video](https://www.youtube.com/watch?v=xAAfu90pzWA)
+
+{% include youtubePlayer.html id=page.xAAfu90pzWA %}
 
 
 | Servings | Cooking Time | Cost |
