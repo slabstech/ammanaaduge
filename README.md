@@ -1,7 +1,7 @@
-# [ammanaaduge](https://ammanaaduge.com/)
+# [Sahana's Food VLog](https://slabs.tech)
 
 
-### Portfolio site of Connecting the Dots by Suma Shetty
+### Portfolio site of Food Recipes and Vlog by Sahana Shetty
 
 
 
