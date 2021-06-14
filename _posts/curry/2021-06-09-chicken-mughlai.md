@@ -7,7 +7,7 @@ tags:
 youtubeId: xAAfu90pzWA
 ---
 
-{% include youtubePlayer.html id=page.xAAfu90pzWA %}
+{% include youtubePlayer.html id=xAAfu90pzWA %}
 
 
 
