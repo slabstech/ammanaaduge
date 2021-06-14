@@ -1,27 +1,28 @@
 ---
-title: "Chicken Mughlai : Curry"
+title: "EDIT- Add Recipe Name"
 categories:
-  - curry
+  - EDIT
 tags:
-  - curry
-youtubeId: xAAfu90pzWA
+  - EDIT
+youtubeId: EDIT
 ---
 
-{% include youtubePlayer.html id=page.xAAfu90pzWA %}
+EDIT _ filename - yyyy-mm-dd-recipe-name.md
 
-
+{% include youtubePlayer.html id=page.EDIT %}
 
 | Servings | Cooking Time | Cost |
 |-------|-------|-------|
-| 5 people | 60 mins | Rs. 200|
-
+| EDIT - 5| EDIT - 60 mins |EDIT - Rs. 200|
 
 #### Ingredients:
+
+EDIT
 
 - Vegetables
   - Onion – 4
   - Green chilli – 5
-  - Coriander – 2 tbsp
+  - Coriander(chopped) – 2 tbsp
   - Pudina or mint leaves– 1 tbsp
   - Tomato – 2
   - Lemon juice – 2 tsp(teaspoon)
@@ -30,6 +31,7 @@ youtubeId: xAAfu90pzWA
 - Egg – 2
 
 - Oil – 5 tbsp
+
 
 - Spices
   - Salt – 1 tbsp
@@ -47,13 +49,13 @@ youtubeId: xAAfu90pzWA
   - Frying Pan
 
 
-#### Prep (Before Cooking) :
-1. Chop onions to small pieces
-2. Chop Tomatoes and Green Chillies
-3. Chop Coriander and Pudina
+####  Prep (Before Cooking)
+EDIT
+1. Chop onions to small size
+2. Chop tomatoes and chilli
 
 #### Cooking :
-
+EDIT
 
 1. Add oil in a stainless steel frying pan.
 2. Add chopped onions and green chillies to the oil and sauté till it turns golden brown.
@@ -77,4 +79,4 @@ youtubeId: xAAfu90pzWA
 [Please Subscribe The Channel](https://www.youtube.com/channel/UC-9FVME89HgtK5ePA0qUMxA)
 
 
-[Video Link on Youtube](https://www.youtube.com/watch?v=xAAfu90pzWA)
+[Video Link on Youtube ](EDIT https://www.youtube.com/watch?v=EDIT)
